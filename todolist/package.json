@@ -1,0 +1,19 @@
+{
+  "name": "todolist",
+  "version": "1.2.2",
+  "description": "app todolist",
+  "main": "index.js",
+  "scripts": {
+    "start": "node todolist/index"
+    
+  },
+  "author": "Tchao ziwa",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3",
+    "nodemon": "^2.0.22"
+  }
+}
